@@ -65,6 +65,8 @@ CGPA: 8.94/10.00
 ## **📫 Let's Connect!**  
 📩 **Email:** nbayyam@iu.edu  
 📞 **Phone:** +1(812)671-1867 
+
+---
 🔗 **LinkedIn:** [Nikethbayya](https://www.linkedin.com/in/niketh-bayya/)  
 💻 **GitHub:** [GitHub Profile](https://github.com/your-username)  
 
