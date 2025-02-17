@@ -1,5 +1,3 @@
-# Niketh Bayya Mahesh  
-
 ## AI/ML Engineer | Software Development | IoT Developer 
 
 ---
@@ -48,11 +46,11 @@ CGPA: 8.94/10.00
 
 ---
 ## **What Defines Me?**
-**✔️Skilled & Adaptive Developer** – Proficient in Python, C++, JavaScript, and cloud platforms like AWS & Azure.
-**✔️ Machine Learning Enthusiast** – Experienced in LLMs, NLP, deep learning.
-**✔️ Software Engineering Expertise** – Strong background in full-stack development, API design, and database optimization.
-**✔️ Fast Learner & Problem Solver** – Ability to quickly grasp new technologies and implement efficient solutions.
-**✔️ Actively Seeking Full-Time Roles** – Looking for opportunities in Machine Learning Engineering, Software Development, and AI Research.
+✔️ **Skilled & Adaptive Developer-**  Proficient in Python, C++, JavaScript, and cloud platforms like AWS & Azure.
+✔️ **Machine Learning Enthusiast-**  Experienced in LLMs, NLP, deep learning.
+✔️ **Software Engineering Expertise-**  Strong background in full-stack development, API design, and database optimization.
+✔️ **Fast Learner & Problem Solver-**  Ability to quickly grasp new technologies and implement efficient solutions.
+✔️ **Actively Seeking Full-Time Roles-**  Looking for opportunities in Machine Learning Engineering, Software Development, and AI Research.
 
 ---
 ## **Technical Skills**  
