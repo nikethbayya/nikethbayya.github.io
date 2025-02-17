@@ -3,6 +3,7 @@
 ---
 ## **About Me**
 I am Niketh Bayya Mahesh, currently pursuing a Master of Science in Computer Science at Indiana University Bloomington. With a strong foundation in Machine Learning, Software Development, and IoT, I specialize in developing scalable, high-performance applications that leverage cutting-edge AI and cloud technologies. I am passionate about solving complex challenges through AI-driven solutions and backend development. My expertise includes designing scalable architectures, optimizing ML models, and integrating intelligent automation into real-world applications.
+
 ---
 ## **Education**  
 ### 📚 **Master of Science in Computer Science** 
